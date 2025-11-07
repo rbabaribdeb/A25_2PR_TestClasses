@@ -1,0 +1,4 @@
+Sexe,Prenom,Annee
+M,Alphonse,1932
+F,Beatrice,1964
+F,Charlotte,1988

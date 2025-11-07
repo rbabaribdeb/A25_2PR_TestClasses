@@ -4,21 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265f07f0-d34a-40be-b7fc-adc3df3aadc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TestClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Voiture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Voiture_V2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Voiture_V3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Perosonne_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_TestVille.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Personne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ville.py" afterDir="false" />
+    <list default="true" id="265f07f0-d34a-40be-b7fc-adc3df3aadc2" name="Changes" comment="abtraites &#10;methodes">
+      <change afterPath="$PROJECT_DIR$/Emprunt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fichier1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fichier2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fichier3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fichier4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fichier5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fichier6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fichier7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDocument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dossier/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testIA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forme.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rbabaribdeb&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rbabaribdeb/A25_2PR_TestClasses.git&quot;,
+    &quot;accountId&quot;: &quot;5f926aca-103b-409b-8f06-5998fe5a1627&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -52,14 +63,25 @@
     "Python.5_Perosonne.executor": "Run",
     "Python.6_Perosonne_2.executor": "Run",
     "Python.7_TestVille.executor": "Run",
+    "Python.8_Forme.executor": "Debug",
+    "Python.9_Outils.executor": "Run",
+    "Python.Fichier1.executor": "Run",
+    "Python.Fichier2.executor": "Run",
+    "Python.Fichier3.executor": "Run",
+    "Python.Fichier4.executor": "Debug",
+    "Python.Fichier5.executor": "Run",
+    "Python.Fichier6.executor": "Debug",
+    "Python.Forme.executor": "Run",
     "Python.Personne (1).executor": "Run",
     "Python.TestClasses.executor": "Debug",
+    "Python.TestDocument.executor": "Run",
     "Python.Unnamed.executor": "Debug",
     "Python.Voiture.executor": "Run",
     "Python.Voiture_V2.executor": "Run",
     "Python.Voiture_V3.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -70,9 +92,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rbaba\PycharmProjects\TestClasses" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rbaba\PycharmProjects\TestClasses\dossier" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.7_TestVille">
-    <configuration name="4_Voiture_V3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Fichier6">
+    <configuration name="Fichier2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestClasses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\rbaba\PycharmProjects\TestClasses\4_Voiture_V3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fichier2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_Perosonne_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Fichier3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestClasses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Perosonne_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fichier3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_TestVille" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Fichier4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestClasses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +154,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_TestVille.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fichier4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Personne (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Fichier5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestClasses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,7 +176,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Personne.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fichier5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Personne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Fichier6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestClasses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +198,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\rbaba\PycharmProjects\TestClasses\Personne.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fichier6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,26 +232,26 @@
     </configuration>
     <list>
       <item itemvalue="Python.TestClasses" />
-      <item itemvalue="Python.4_Voiture_V3" />
-      <item itemvalue="Python.6_Perosonne_2" />
-      <item itemvalue="Python.7_TestVille" />
-      <item itemvalue="Python.Personne" />
-      <item itemvalue="Python.Personne (1)" />
+      <item itemvalue="Python.Fichier2" />
+      <item itemvalue="Python.Fichier3" />
+      <item itemvalue="Python.Fichier4" />
+      <item itemvalue="Python.Fichier5" />
+      <item itemvalue="Python.Fichier6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7_TestVille" />
-        <item itemvalue="Python.6_Perosonne_2" />
-        <item itemvalue="Python.Personne (1)" />
-        <item itemvalue="Python.Personne" />
-        <item itemvalue="Python.4_Voiture_V3" />
+        <item itemvalue="Python.Fichier6" />
+        <item itemvalue="Python.Fichier5" />
+        <item itemvalue="Python.Fichier4" />
+        <item itemvalue="Python.Fichier3" />
+        <item itemvalue="Python.Fichier2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
+        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -238,7 +263,29 @@
       <option name="presentableId" value="Default" />
       <updated>1760634552048</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1760645513031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760645513031</updated>
+    </task>
+    <task id="LOCAL-00002" summary="abtraites &#10;methodes">
+      <option name="closed" value="true" />
+      <created>1761849345371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761849345371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="abtraites &#10;methodes" />
+    <option name="LAST_COMMIT_MESSAGE" value="abtraites &#10;methodes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -253,7 +300,52 @@
           <line>17</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9_Outils_methodes.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9_Outils_methodes.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9_Outils_methodes.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9_Outils_methodes.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestDocument.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fichier4.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fichier5.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fichier6.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="tabLigne[2]" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
