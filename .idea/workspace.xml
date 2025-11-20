@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265f07f0-d34a-40be-b7fc-adc3df3aadc2" name="Changes" comment="abtraites &#10;methodes">
-      <change afterPath="$PROJECT_DIR$/Emprunt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fichier1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fichier2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fichier3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fichier4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fichier5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fichier6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fichier7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDocument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dossier/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testIA.py" afterDir="false" />
+    <list default="true" id="265f07f0-d34a-40be-b7fc-adc3df3aadc2" name="Changes" comment="fichiers">
+      <change afterPath="$PROJECT_DIR$/10_Try_Execpt1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Try_Execpt2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Try_Execpt3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Try_Execpt4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Try_Execpt5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Try_Execpt6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Forme.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +54,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_Try_Execpt1.executor": "Run",
+    "Python.10_Try_Execpt2.executor": "Run",
+    "Python.10_Try_Execpt4.executor": "Run",
+    "Python.10_Try_Execpt5.executor": "Run",
     "Python.5_Perosonne.executor": "Run",
     "Python.6_Perosonne_2.executor": "Run",
     "Python.7_TestVille.executor": "Run",
@@ -96,8 +94,8 @@
       <recent name="C:\Users\rbaba\PycharmProjects\TestClasses\dossier" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Fichier6">
-    <configuration name="Fichier2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10_Try_Execpt5">
+    <configuration name="10_Try_Execpt1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestClasses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fichier2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Try_Execpt1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fichier3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10_Try_Execpt2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestClasses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fichier3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Try_Execpt2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fichier4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10_Try_Execpt4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestClasses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fichier4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Try_Execpt4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fichier5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10_Try_Execpt5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestClasses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fichier5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Try_Execpt5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,19 +230,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.TestClasses" />
-      <item itemvalue="Python.Fichier2" />
-      <item itemvalue="Python.Fichier3" />
-      <item itemvalue="Python.Fichier4" />
-      <item itemvalue="Python.Fichier5" />
+      <item itemvalue="Python.10_Try_Execpt1" />
+      <item itemvalue="Python.10_Try_Execpt2" />
+      <item itemvalue="Python.10_Try_Execpt4" />
+      <item itemvalue="Python.10_Try_Execpt5" />
       <item itemvalue="Python.Fichier6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10_Try_Execpt5" />
+        <item itemvalue="Python.10_Try_Execpt4" />
+        <item itemvalue="Python.10_Try_Execpt2" />
+        <item itemvalue="Python.10_Try_Execpt1" />
         <item itemvalue="Python.Fichier6" />
-        <item itemvalue="Python.Fichier5" />
-        <item itemvalue="Python.Fichier4" />
-        <item itemvalue="Python.Fichier3" />
-        <item itemvalue="Python.Fichier2" />
       </list>
     </recent_temporary>
   </component>
@@ -279,13 +277,22 @@
       <option name="project" value="LOCAL" />
       <updated>1761849345371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fichiers">
+      <option name="closed" value="true" />
+      <created>1762525558423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762525558423</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="abtraites &#10;methodes" />
-    <option name="LAST_COMMIT_MESSAGE" value="abtraites &#10;methodes" />
+    <MESSAGE value="fichiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="fichiers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -339,6 +346,11 @@
           <url>file://$PROJECT_DIR$/Fichier6.py</url>
           <line>14</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10_Try_Execpt1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
